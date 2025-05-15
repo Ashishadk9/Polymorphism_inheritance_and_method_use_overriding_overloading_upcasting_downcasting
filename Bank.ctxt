@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bank
+comment0.text=\n\ Write\ a\ description\ of\ class\ Bank\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=double\ getInterestRate()
+comment2.params=p\ t\ r
+comment2.target=double\ calculateInterest(int,\ int,\ int)
+comment3.params=p\ t
+comment3.target=double\ calculateInterest(int,\ int)
+numComments=4

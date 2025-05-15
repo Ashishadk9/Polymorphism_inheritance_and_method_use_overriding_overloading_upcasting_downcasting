@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=NabilBank
+comment0.text=\n\ Write\ a\ description\ of\ class\ NabilBank\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=double\ getInterestrate()
+comment2.params=
+comment2.target=void\ printSmsBankingStatus()
+numComments=3
